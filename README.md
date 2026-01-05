@@ -115,3 +115,6 @@ SHOW DATABASES;
 customer         | customer_id
 ```
 
+Ответ:
+
+![](https://github.com/Sebostian19/DDL-DML/blob/main/2-1.png)
