@@ -88,11 +88,14 @@ SELECT user();
 
 
 1.7. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
+
 wget https://downloads.mysql.com/docs/sakila-db.zip
+
 unzip sakila-db.zip
 
 
 1.8. Восстановите дамп в базу данных.
+
 source /home/work/sakila-db/sakila-schema.sql
 source /home/work/sakila-db/sakila-data.sql
 SHOW DATABASES;
